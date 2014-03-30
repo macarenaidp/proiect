@@ -35,6 +35,10 @@ public class Mediator {
 	
 	// ---------- list methods ----------
 
+	public void downloadFile(String fileName) {
+		
+	}
+	
 	public void addList() {
 		final String text = tName.getText();
 		if (text.isEmpty()) {
