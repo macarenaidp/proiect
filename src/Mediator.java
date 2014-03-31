@@ -1,15 +1,17 @@
 import java.util.List;
+import java.util.Random;
 
-import javax.swing.*;
+import javax.swing.DefaultListModel;
+import javax.swing.JList;
+import javax.swing.JTable;
+import javax.swing.SwingWorker;
+import javax.swing.table.TableColumn;
 
 public class Mediator {
 	
 	private JList				list, user;	// lists
-	private JTextField			tName;			// name field
-	private JButton				bAdd;			// add button
-	private JButton				bRemove;		// remove button
-	
-	private StateManager stateManager = new StateManager(this);
+	private JTable table;
+	private List<User> users;
 	
 	// ---------- registration methods ----------
 	
@@ -21,93 +23,79 @@ public class Mediator {
 		this.user = user;
 	}
 	
-	public void registerName(JTextField tName) {
-		this.tName = tName;
+	public void registerTable(JTable t) {
+		this.table = t;
 	}
 	
-	public void registerAdd(JButton bAdd) {
-		this.bAdd = bAdd;
+	public void addUser(String[] files, String name) {
+		User new_user = new User(files, name);
+		((DefaultListModel)this.user.getModel()).addElement(name);
+		this.users.add(new_user);
 	}
-	
-	public void registerRemove(JButton bRemove) {
-		this.bRemove = bRemove;
+
+	public void listFiles(String userName) {
+		
+		DefaultListModel model = (DefaultListModel)this.list.getModel();
+		model.removeAllElements();
+
+		User u = null;
+		for (User uu: this.users)
+			if(uu.getName() == userName)
+				u = uu;
+		
+		for (String f: u.getFiles())
+			model.addElement(f);
+		
 	}
 	
 	// ---------- list methods ----------
 
 	public void downloadFile(String fileName) {
-		
+		new ProgressWorker(fileName).execute();
 	}
 	
-	public void addList() {
-		final String text = tName.getText();
-		if (text.isEmpty()) {
-			JOptionPane.showMessageDialog(
-					null, "Name is empty!", "Error", JOptionPane.ERROR_MESSAGE);
-			return;
-		}
-		
-		//bAdd.setEnabled(false);
-		
-		new ListWorker(text).execute();
-	}
 	
-	public void removeList() {
-		int index = list.getSelectedIndex();
-		if (index == -1) {
-			final String text = tName.getText();
-			if (text.isEmpty()) {
-			JOptionPane.showMessageDialog(
-					null, "No item selected!", "Error", JOptionPane.ERROR_MESSAGE);
-			return;
-			}
-			else
-			{
-				((DefaultListModel)list.getModel()).removeElement(text);
-			}
-		}
-		else
-			((DefaultListModel)list.getModel()).remove(index);
-	}
-	
-	// ---------- methods called on events ----------
-	
-	public void add() {
-		stateManager.add();
-	}
-	
-	public void remove() {
-		stateManager.remove();
-	}
-	
-	public void list() {
-		stateManager.setListState();
-	}
-	
-	public void message() {
-		stateManager.setMessageState();
-	}
 	
 	// ---------- swing worker ----------
 	
-	private class ListWorker extends SwingWorker<Void, Integer> {
+	private class ProgressWorker extends SwingWorker<Void, Integer> {
 		
 		private String text;
+		private int index;
 		
-		public ListWorker(String text) {
+		public ProgressWorker(String text) {
 			this.text = text;
+			this.index = ((MyModel)table.getModel()).getRowCount();
 		}
 
 		@Override
 		protected Void doInBackground() throws Exception {
-			int i = 3;
-			while (i-- > 0)
-				try {
-					Thread.sleep(1000);
-					publish(i);
-				} catch (InterruptedException e) {}
-			
-			return null;
+			CustomProgressBar pb = new CustomProgressBar();
+			String x = "0%";
+			Object[][] row ={	{"Row 1 Col 1", "Row 1 Col 2", this.text, x, "Receiving..."}};
+
+			for(Object[] r: row)
+		    	((MyModel)table.getModel()).addRow(r);
+
+			TableColumn myCol = table.getColumnModel().getColumn(3);
+			myCol.setCellRenderer(pb);
+
+			Random random = new Random();
+			int progress = 0;
+
+			while (progress < 100) {
+            	//Sleep for up to one second.
+                try {
+                    Thread.sleep(random.nextInt(1000));
+                } catch (InterruptedException ignore) {}
+
+                progress += 10;
+                x = progress + "%";
+
+                ((MyModel)table.getModel()).setValueAt(x, this.index, 3);
+            }
+
+            return null;
 		}
 		
 		@Override
@@ -118,8 +106,7 @@ public class Mediator {
 		
 		@Override
 		public void done() {
-			((DefaultListModel)list.getModel()).addElement(text);
-			//bAdd.setEnabled(true);
+			((MyModel)table.getModel()).setValueAt("Completed", this.index, 4);
 		}
 		
 	}

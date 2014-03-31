@@ -10,9 +10,8 @@ public class CustomProgressBar extends JProgressBar implements TableCellRenderer
    * Creates a JProgressBar with the range 0,100.
  * @return 
    */
-  public void ProgressCellRenderer(){
-    setValue(0);
-    setString("5%");
+  public CustomProgressBar(){
+	super(0, 100);
     setStringPainted(true);
   }
  
@@ -27,8 +26,9 @@ public class CustomProgressBar extends JProgressBar implements TableCellRenderer
     //value is a percentage e.g. 95%
     final String sValue = value.toString();
     int index = sValue.indexOf('%');
+    int p = 0;
     if (index != -1) {
-      int p = 0;
+      
       try{
         p = Integer.parseInt(sValue.substring(0, index));
       }

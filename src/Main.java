@@ -32,14 +32,9 @@ public class Main extends JPanel {
 	public void init() {
 		// initialize model fisiere
 		model1 = new DefaultListModel();
-		model1.addElement("File1_User1");
-		model1.addElement("File2_User2");
 
 		// initialize model utilizatori
 		model2 = new DefaultListModel();
-		this.addUser("User1");
-		this.addUser("User2");
-		this.addUser("User3");
 
 		// initialize lists, based on the specific model
 		list = new JList(model1);
@@ -48,6 +43,7 @@ public class Main extends JPanel {
 		//user = new JList(new ReverseListModel(model));
 		user = new JList(model2);
 		user.setName("user");
+		
 
 		// main panel
 		JPanel top = new JPanel(new FlowLayout());
@@ -79,11 +75,11 @@ public class Main extends JPanel {
 		right.add(jsp2);
 
         JTable table = new JTable();
+        table.setName("progress_table");
         table.setModel(new MyModel());//invoking our custom model
         table.setDefaultRenderer(JLabel.class,  new Renderer());// for the rendering of cell
         JScrollPane jp = new JScrollPane(table);
-        TableColumn myCol = table.getColumnModel().getColumn(3);
-        myCol.setCellRenderer(new CustomProgressBar());
+        
         middle.add(jp);
 
         JLabel statusBar = new JLabel("Status message...");
@@ -93,11 +89,12 @@ public class Main extends JPanel {
 		// mediator init
 		med.registerList(list);
 		med.registeruser(user);
+		med.registerTable(table);
 
 		list.addListSelectionListener(new ListSelectionListener() {
 			public void valueChanged(ListSelectionEvent e) {
 				JList list = (JList) e.getSource();
-				if (!(list.isSelectionEmpty())) {
+				if (!(list.isSelectionEmpty()) && e.getValueIsAdjusting()) {
 					String fileName = list.getSelectedValue().toString();
 					med.downloadFile(fileName);
 				}
@@ -107,23 +104,9 @@ public class Main extends JPanel {
 		user.addListSelectionListener(new ListSelectionListener() {
 			public void valueChanged(ListSelectionEvent e) {
 				JList list = (JList) e.getSource();
-				if (!(list.isSelectionEmpty())) {
+				if (!(list.isSelectionEmpty())  && e.getValueIsAdjusting()) {
 					String userName = list.getSelectedValue().toString();
-					model1.removeAllElements();
-
-					if (userName == "User1") {
-						model1.addElement("File1_User1");
-						model1.addElement("File2_User1");
-
-					} else if (userName == "User2") {
-						model1.addElement("File1_User2");
-						model1.addElement("File2_User2");
-						model1.addElement("File3_User2");
-
-					} else {
-						model1.addElement("File1_User3");
-					}
-
+					med.listFiles(userName);
 				}
 			}
 		});
