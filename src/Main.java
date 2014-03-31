@@ -21,9 +21,9 @@ public class Main extends JPanel {
 
 	private DefaultListModel	model1;										// list model
 	private DefaultListModel	model2;										// list model
-	private JList				list, user;								// lists
+	public JList				list, user;								// lists
 
-	private Mediator med = new Mediator();
+	public Mediator med = new Mediator();
 
 	public Main() {
 		init();
@@ -119,10 +119,6 @@ public class Main extends JPanel {
 		frame.setExtendedState(Frame.MAXIMIZED_BOTH);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // exit application when window is closed
 		frame.setVisible(true); // show it!
-	}
-
-	public void addUser(String user) {
-		model2.addElement(user);
 	}
 
 	public static void main(String[] args) {

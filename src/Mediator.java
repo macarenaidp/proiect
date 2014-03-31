@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
@@ -12,6 +13,10 @@ public class Mediator {
 	private JList				list, user;	// lists
 	private JTable table;
 	private List<User> users;
+	
+	public Mediator() {
+		this.users = new ArrayList<User>();
+	}
 	
 	// ---------- registration methods ----------
 	
