@@ -3,6 +3,7 @@ import java.util.List;
 import java.util.Random;
 
 import javax.swing.DefaultListModel;
+import javax.swing.JLabel;
 import javax.swing.JList;
 import javax.swing.JTable;
 import javax.swing.SwingWorker;
@@ -10,109 +11,117 @@ import javax.swing.table.TableColumn;
 
 public class Mediator {
 	
-	private JList				list, user;	// lists
-	private JTable table;
+	public JList file_list, user_list;
+	public JTable table;
 	private List<User> users;
+	private JLabel statusBar;
 	
 	public Mediator() {
 		this.users = new ArrayList<User>();
 	}
-	
+
 	// ---------- registration methods ----------
-	
-	public void registerList(JList list) {
-		this.list = list;
+
+	public void registerList(JList file_list) {
+		this.file_list = file_list;
 	}
-	
-	public void registeruser(JList user) {
-		this.user = user;
+
+	public void registerUser(JList user_list) {
+		this.user_list = user_list;
 	}
-	
+
+	public void registerStatusBar(JLabel status) {
+		this.statusBar = status;
+	}
+
 	public void registerTable(JTable t) {
 		this.table = t;
 	}
-	
+
+
 	public void addUser(String[] files, String name) {
 		User new_user = new User(files, name);
-		((DefaultListModel)this.user.getModel()).addElement(name);
+		((DefaultListModel)this.user_list.getModel()).addElement(name);
 		this.users.add(new_user);
 	}
 
 	public void listFiles(String userName) {
-		
-		DefaultListModel model = (DefaultListModel)this.list.getModel();
+
+		DefaultListModel model = (DefaultListModel)this.file_list.getModel();
 		model.removeAllElements();
 
-		User u = null;
-		for (User uu: this.users)
-			if(uu.getName() == userName)
-				u = uu;
-		
-		for (String f: u.getFiles())
-			model.addElement(f);
-		
-	}
-	
-	// ---------- list methods ----------
+		User selected = null;
+		for (User u: this.users)
+			if(u.getName() == userName)
+				selected = u;
 
-	public void downloadFile(String fileName) {
-		new ProgressWorker(fileName).execute();
+		for (String file: selected.getFiles())
+			model.addElement(file);
 	}
-	
-	
-	
+
+	public void downloadFile(String fileName, String source, String dest) {
+		this.statusBar.setText("Downloading " + fileName + "...");
+		new ProgressWorker(fileName, source, dest).execute();
+	}
+
+
+
 	// ---------- swing worker ----------
-	
+
 	private class ProgressWorker extends SwingWorker<Void, Integer> {
-		
-		private String text;
+
+		private String fileName;
+		private String source;
+		private String destination;
 		private int index;
-		
-		public ProgressWorker(String text) {
-			this.text = text;
+
+		public ProgressWorker(String file, String source, String dest) {
+			this.fileName = file;
+			this.source = source;
+			this.destination = dest;
 			this.index = ((MyModel)table.getModel()).getRowCount();
 		}
 
 		@Override
 		protected Void doInBackground() throws Exception {
 			CustomProgressBar pb = new CustomProgressBar();
-			String x = "0%";
-			Object[][] row ={	{"Row 1 Col 1", "Row 1 Col 2", this.text, x, "Receiving..."}};
+			Random random = new Random();
+			int progress = 0;
+			String progress_str = "0%";
 
-			for(Object[] r: row)
-		    	((MyModel)table.getModel()).addRow(r);
+			Object[] row = {this.source, this.destination, this.fileName, progress_str, "Receiving..."};
+			((MyModel)table.getModel()).addRow(row);
 
 			TableColumn myCol = table.getColumnModel().getColumn(3);
 			myCol.setCellRenderer(pb);
 
-			Random random = new Random();
-			int progress = 0;
-
 			while (progress < 100) {
-            	//Sleep for up to one second.
-                try {
+
+				try {
                     Thread.sleep(random.nextInt(1000));
                 } catch (InterruptedException ignore) {}
 
                 progress += 10;
-                x = progress + "%";
+                progress_str = progress + "%";
 
-                ((MyModel)table.getModel()).setValueAt(x, this.index, 3);
+                statusBar.setText("Downloading " + this.fileName + "...");
+                ((MyModel)table.getModel()).setValueAt(progress_str, this.index, 3);
             }
 
             return null;
 		}
-		
+
 		@Override
 		protected void process(List<Integer> list) {
 			for (int i : list)
 				System.out.println("Processed: " + i);
 		}
-		
+
 		@Override
 		public void done() {
 			((MyModel)table.getModel()).setValueAt("Completed", this.index, 4);
+			statusBar.setText("Finished downloading " + this.fileName);
 		}
-		
+
 	}
 }

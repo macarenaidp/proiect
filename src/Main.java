@@ -15,35 +15,33 @@ import javax.swing.SwingConstants;
 import javax.swing.SwingUtilities;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
-import javax.swing.table.TableColumn;
 
 public class Main extends JPanel {
 
-	private DefaultListModel	model1;										// list model
-	private DefaultListModel	model2;										// list model
-	public JList				list, user;								// lists
-
+	private DefaultListModel	file_model;		// list model
+	private DefaultListModel	user_model;		// list model
+	public JList				file_list, user_list;	// lists
+	private JLabel statusBar;
+	private String userName;
+	
 	public Mediator med = new Mediator();
 
-	public Main() {
+	public Main(String userName) {
+		this.userName = userName;
 		init();
 	}
 
 	public void init() {
-		// initialize model fisiere
-		model1 = new DefaultListModel();
-
-		// initialize model utilizatori
-		model2 = new DefaultListModel();
+		// initialize models
+		file_model = new DefaultListModel();
+		user_model = new DefaultListModel();
 
 		// initialize lists, based on the specific model
-		list = new JList(model1);
-		list.setName("list");
+		file_list = new JList(file_model);
+		file_list.setName("list");
 
-		//user = new JList(new ReverseListModel(model));
-		user = new JList(model2);
-		user.setName("user");
-		
+		user_list = new JList(user_model);
+		user_list.setName("user");
 
 		// main panel
 		JPanel top = new JPanel(new FlowLayout());
@@ -65,12 +63,11 @@ public class Main extends JPanel {
 		this.add(bottom, BorderLayout.PAGE_END);
 
 		// middle panel: the two lists (scrollable)
-		JScrollPane jsp = new JScrollPane(list);
+		JScrollPane jsp = new JScrollPane(file_list);
 		jsp.setName("scroll");
 		middle.add(jsp);
 
-		JScrollPane jsp2 = new JScrollPane(user);
-		//jsp2.setPreferredSize(new Dimension(450,110));
+		JScrollPane jsp2 = new JScrollPane(user_list);
 		jsp2.setName("scroll2");
 		right.add(jsp2);
 
@@ -79,29 +76,40 @@ public class Main extends JPanel {
         table.setModel(new MyModel());//invoking our custom model
         table.setDefaultRenderer(JLabel.class,  new Renderer());// for the rendering of cell
         JScrollPane jp = new JScrollPane(table);
-        
+
         middle.add(jp);
 
-        JLabel statusBar = new JLabel("Status message...");
+        this.statusBar = new JLabel("");
         statusBar.setHorizontalAlignment(SwingConstants.LEFT);
         bottom.add(statusBar);
 
 		// mediator init
-		med.registerList(list);
-		med.registeruser(user);
+		med.registerList(file_list);
+		med.registerUser(user_list);
 		med.registerTable(table);
+		med.registerStatusBar(statusBar);
 
-		list.addListSelectionListener(new ListSelectionListener() {
+		// Fake user for testing
+		/*
+		String[] files = {"file1", "file2"};
+		med.addUser(files, "name");
+		*/
+
+		// Selection listener for the file list
+		file_list.addListSelectionListener(new ListSelectionListener() {
 			public void valueChanged(ListSelectionEvent e) {
 				JList list = (JList) e.getSource();
+
 				if (!(list.isSelectionEmpty()) && e.getValueIsAdjusting()) {
 					String fileName = list.getSelectedValue().toString();
-					med.downloadFile(fileName);
+					String sourceUser = user_list.getSelectedValue().toString();
+					med.downloadFile(fileName, sourceUser, userName);
 				}
 			}
 		});
 
-		user.addListSelectionListener(new ListSelectionListener() {
+		// Selection listener for the user list
+		user_list.addListSelectionListener(new ListSelectionListener() {
 			public void valueChanged(ListSelectionEvent e) {
 				JList list = (JList) e.getSource();
 				if (!(list.isSelectionEmpty())  && e.getValueIsAdjusting()) {
@@ -112,9 +120,9 @@ public class Main extends JPanel {
 		});
 	}
 
-	public static void buildGUI() {
-		JFrame frame = new JFrame("User1"); // title
-		frame.setContentPane(new Main()); // content
+	public static void buildGUI(String userName) {
+		JFrame frame = new JFrame(userName); // title
+		frame.setContentPane(new Main(userName)); // content
 		frame.setSize(500, 500); // width / height
 		frame.setExtendedState(Frame.MAXIMIZED_BOTH);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // exit application when window is closed
@@ -125,7 +133,7 @@ public class Main extends JPanel {
 		// run on EDT (event dispatch thread), not on main thread!
 		SwingUtilities.invokeLater(new Runnable() {
 			public void run() {
-				buildGUI();
+				buildGUI("User1");
 			}
 		});
 	}
