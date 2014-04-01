@@ -130,10 +130,12 @@ public class Main extends JPanel {
 	}
 
 	public static void main(String[] args) {
+		final String userName = args[0];
+
 		// run on EDT (event dispatch thread), not on main thread!
 		SwingUtilities.invokeLater(new Runnable() {
 			public void run() {
-				buildGUI("User1");
+				buildGUI(userName);
 			}
 		});
 	}
