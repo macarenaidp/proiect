@@ -10,12 +10,12 @@ import javax.swing.SwingWorker;
 import javax.swing.table.TableColumn;
 
 public class Mediator {
-	
+
 	public JList file_list, user_list;
 	public JTable table;
 	private List<User> users;
 	private JLabel statusBar;
-	
+
 	public Mediator() {
 		this.users = new ArrayList<User>();
 	}
@@ -39,10 +39,22 @@ public class Mediator {
 	}
 
 
-	public void addUser(String[] files, String name) {
-		User new_user = new User(files, name);
+	public void addUser(String[] files, String name, String ip, int port) {
+		User new_user = new User(files, name, ip, port);
 		((DefaultListModel)this.user_list.getModel()).addElement(name);
 		this.users.add(new_user);
+	}
+
+	public User getUser(String name) {
+		User u = null;
+
+		for (int i = 0; i < this.users.size(); i ++) { 
+			u = this.users.get(i);
+			if (u.getName() == name)
+				return u;
+		}
+
+		return null;
 	}
 
 	public void listFiles(String userName) {
@@ -61,6 +73,13 @@ public class Mediator {
 
 	public void downloadFile(String fileName, String source, String dest) {
 		this.statusBar.setText("Downloading " + fileName + "...");
+		User source_user = this.getUser(source);
+
+		if (source_user == null) {
+			return;
+		}
+
+		Client client = new Client(source_user, fileName, "/home/camelia/Desktop/idp/");
 		new ProgressWorker(fileName, source, dest).execute();
 	}
 

@@ -1,5 +1,3 @@
-import java.io.File;
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.net.InetSocketAddress;
@@ -9,25 +7,24 @@ import java.nio.MappedByteBuffer;
 import java.nio.channels.FileChannel;
 import java.nio.channels.SelectionKey;
 import java.nio.channels.Selector;
-import java.nio.channels.ServerSocketChannel;
 import java.nio.channels.SocketChannel;
 import java.nio.charset.Charset;
-import java.nio.charset.CharsetDecoder;
+import java.nio.charset.CharsetEncoder;
 import java.util.Iterator;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 
 public class Client {
 
 	public static final int BUF_SIZE = 4;
 	public static boolean running = true;
-	public String file_name = "";
+	public static String file_name = "";
+	public String destdir = "";
 
-	public Client(User source, String fileName) {
+	public Client(User source, String fileName, String destDir) {
 		super();
 		Selector selector			= null;
 		SocketChannel socketChannel	= null;
-		this.file_name = source.getHomedir() + fileName;
+		this.file_name = fileName;
+		this.destdir = destDir;
 
 		try {
 			selector = Selector.open();
@@ -48,6 +45,8 @@ public class Client {
 						connect(key);
 					else if (key.isReadable())
 						read(key);
+					else if (key.isWritable())
+						write(key);
 				}
 			}
 
@@ -78,10 +77,23 @@ public class Client {
 			running = false;
 		}
 
-		key.interestOps(SelectionKey.OP_READ);
+		key.interestOps(SelectionKey.OP_WRITE);
 	}
 
-	public static void read(SelectionKey key) throws IOException {
+	public void write(SelectionKey key) throws IOException {
+
+		SocketChannel socketChannel = (SocketChannel)key.channel();
+
+		Charset charset = Charset.forName("UTF-8");
+		CharsetEncoder encoder = charset.newEncoder();
+		ByteBuffer send_buffer = encoder.encode(CharBuffer.wrap(this.file_name));
+
+		while (socketChannel.write(send_buffer) > 0);
+
+		socketChannel.register(key.selector(), SelectionKey.OP_READ);
+	}
+
+	public void read(SelectionKey key) throws IOException {
 
 		int bytes = 0;
 		SocketChannel socketChannel = (SocketChannel)key.channel();
@@ -94,9 +106,10 @@ public class Client {
 			ByteBuffer lengthByteBuffer = ByteBuffer.allocate(4);
 			socketChannel.read(lengthByteBuffer);
 			int file_size = lengthByteBuffer.getInt(0);
+			System.out.println("File size: " + file_size);
 
 			//my file
-			raf = new RandomAccessFile("/home/camelia/Desktop/out.txt", "rw");
+			raf = new RandomAccessFile(this.destdir + this.file_name, "rw");
 			raf.setLength(0);
 			fc = raf.getChannel();
 			memBuf = fc.map(FileChannel.MapMode.READ_WRITE, 0, file_size);

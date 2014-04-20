@@ -5,6 +5,7 @@ import java.io.RandomAccessFile;
 import java.net.InetSocketAddress;
 import java.nio.ByteBuffer;
 import java.nio.CharBuffer;
+import java.nio.MappedByteBuffer;
 import java.nio.channels.FileChannel;
 import java.nio.channels.SelectionKey;
 import java.nio.channels.Selector;
@@ -22,10 +23,12 @@ public class Server {
 	public static final String IP		= "127.0.0.1";
 	public static final int PORT		= 40002;
 	public static long file_size = 0;
+	public static String homedir = "";
 
-	public Server() {
+	public Server(String homedir) {
 		super();
 
+		this.homedir = homedir;
 		ServerSocketChannel serverSocketChannel	= null;
 		Selector selector						= null;
 
@@ -48,6 +51,10 @@ public class Server {
 						accept(key);
 					else if (key.isWritable())
 						write(key);
+					else if (key.isReadable()) {
+						System.out.println("am sa citesc");
+						read(key);
+					}
 				}
 			}
 
@@ -66,7 +73,39 @@ public class Server {
 				} catch (IOException e) {}
 		}
 	}
-	
+
+
+	public void read(SelectionKey key) throws IOException {
+
+		System.out.println("reading");
+		SocketChannel socketChannel = (SocketChannel)key.channel();
+
+		try {
+			ByteBuffer read_buffer = ByteBuffer.allocate(100);
+			int x = socketChannel.read(read_buffer);
+			Charset charset = Charset.forName("UTF-8");
+			CharsetDecoder decoder = charset.newDecoder();
+			read_buffer.flip();
+			String file_name = decoder.decode(read_buffer).toString();
+
+			System.out.println("Server: am citit ceva intial " + file_name);
+
+			RandomAccessFile raf	= null;		// file
+			FileChannel fc			= null;		// associated file channel
+			ByteBuffer buf = ByteBuffer.allocateDirect(BUF_SIZE);
+			raf = new RandomAccessFile(this.homedir + file_name, "r");
+			fc = raf.getChannel();
+
+			while(fc.read(buf) > 0);
+			file_size = (int)fc.size();
+			buf.flip();
+
+			socketChannel.register(key.selector(), SelectionKey.OP_WRITE, buf);
+
+		} catch (IOException e) {
+			socketChannel.close();
+		}
+	}
 
 
 	public static void write(SelectionKey key) throws IOException {
@@ -76,6 +115,7 @@ public class Server {
 
 		ByteBuffer wrap = ByteBuffer.allocate(4);
 		wrap.putInt((int)file_size);
+		System.out.println(file_size);
 		wrap.flip();
 		socketChannel.write(wrap);
 
@@ -92,17 +132,7 @@ public class Server {
 		SocketChannel socketChannel = serverSocketChannel.accept();
 		socketChannel.configureBlocking(false);
 
-		RandomAccessFile raf	= null;		// file
-		FileChannel fc			= null;		// associated file channel
-		ByteBuffer buf = ByteBuffer.allocateDirect(BUF_SIZE);
-		raf = new RandomAccessFile("/home/camelia/Desktop/ceva.txt", "r");
-		fc = raf.getChannel();
-
-		while(fc.read(buf) > 0);
-		file_size = fc.size();
-		buf.flip();
-
-		socketChannel.register(key.selector(), SelectionKey.OP_WRITE, buf);
+		socketChannel.register(key.selector(), SelectionKey.OP_READ);
 	}
 
 }

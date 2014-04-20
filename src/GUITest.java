@@ -10,7 +10,7 @@ public class GUITest extends TestCase {
     	Mediator med = m.med;
 
     	String[] files = {"file1"};
-    	med.addUser(files, "UserName");
+    	med.addUser(files, "UserName", "127.0.0.1", 7777);
 
     	DefaultListModel lm = (DefaultListModel)m.user_list.getModel();
     	int size = lm.getSize();
@@ -23,7 +23,7 @@ public class GUITest extends TestCase {
     	Mediator med = m.med;
 
     	String[] files = {"file1"};
-    	med.addUser(files, "UserName");
+    	med.addUser(files, "UserName", "127.0.0.1", 7777);
 
     	DefaultListModel lm = (DefaultListModel)m.user_list.getModel();
     	String u = (String)lm.getElementAt(0);

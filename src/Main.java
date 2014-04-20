@@ -3,6 +3,8 @@ import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.Frame;
 import java.awt.GridLayout;
+import java.nio.channels.Selector;
+import java.nio.channels.ServerSocketChannel;
 
 import javax.swing.DefaultListModel;
 import javax.swing.JFrame;
@@ -90,10 +92,8 @@ public class Main extends JPanel {
 		med.registerStatusBar(statusBar);
 
 		// Fake user for testing
-		/*
-		String[] files = {"file1", "file2"};
-		med.addUser(files, "name");
-		*/
+		String[] files = {"ceva.txt"};
+		med.addUser(files, "name", "127.0.0.1", 40002);
 
 		// Selection listener for the file list
 		file_list.addListSelectionListener(new ListSelectionListener() {
@@ -130,7 +130,7 @@ public class Main extends JPanel {
 	}
 
 	public static void main(String[] args) {
-		final String userName = args[0];
+		final String userName = "gigi";//args[0];
 
 		// run on EDT (event dispatch thread), not on main thread!
 		SwingUtilities.invokeLater(new Runnable() {
@@ -138,8 +138,10 @@ public class Main extends JPanel {
 				buildGUI(userName);
 			}
 		});
-	}
 
+		Server server = new Server("/home/camelia/Desktop/");
+	}
+ 
 }
 
 
