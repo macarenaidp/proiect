@@ -2,13 +2,13 @@ Tema 2 IDP.
 
 Echipa Macarena.
 
-Intrucat nu este implementat serviciul web atat utilizatorii cat si fisierele sunt definite statatic in main.
+Intrucat nu este implementat serviciul web, atat utilizatorii cat si fisierele sunt definite static in main.
 
 Implementare:
-	- transfer de fisier in chunkuri. La apasarea pe unul dintre fisisrele unui utilizator acesta este cerut.
-In prealabil are loc un schimd de nume ca apoi sa se raspunda cu dimensiunea si datele efective.
+	- transfer de fisier in chunkuri. Prin apasarea pe unul dintre fisierele unui utilizator acesta este cerut.
+In prealabil are loc un schimb de nume, ca apoi sa se raspunda cu dimensiunea si datele efective.
 	- Progress bar corelat transferului de fisiere.
-	- Logare pentru fiecare dintre cei utilizatori intr-un fisier separat( a informatiilor specifice), 
+	- Logare pentru fiecare dintre utilizatori intr-un fisier separat(a informatiilor specifice), 
 cat si intr-un fisier comun(a tuturor informatiilor) si la consola. Granularitaea poate fi schimbata in log4j.properties.
 	- testarea prin care se adauga doi utilizatori si fisiere.
 
