@@ -52,7 +52,6 @@ public class Server {
 					else if (key.isWritable())
 						write(key);
 					else if (key.isReadable()) {
-						System.out.println("am sa citesc");
 						read(key);
 					}
 				}
@@ -92,12 +91,14 @@ public class Server {
 
 			RandomAccessFile raf	= null;		// file
 			FileChannel fc			= null;		// associated file channel
-			ByteBuffer buf = ByteBuffer.allocateDirect(BUF_SIZE);
+			
 			raf = new RandomAccessFile(this.homedir + file_name, "r");
 			fc = raf.getChannel();
+			file_size = (int)fc.size();
+			ByteBuffer buf = ByteBuffer.allocateDirect((int)file_size);
 
 			while(fc.read(buf) > 0);
-			file_size = (int)fc.size();
+			
 			buf.flip();
 
 			socketChannel.register(key.selector(), SelectionKey.OP_WRITE, buf);

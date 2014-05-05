@@ -1,0 +1,1601 @@
+2014-04-21 23:12:45 INFO  Client:126 - Hello
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 373760 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 373760 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 3
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 392740 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 766500 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 6
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 1027840 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 7
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 392740 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 1420580 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 10
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 327040 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 1747620 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 12
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 2008960 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 14
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 327040 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 2336000 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 16
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 2531640 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 17
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 327040 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 2858680 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 19
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 524140 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 3382820 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 23
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 3644160 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 25
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 3905500 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 26
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 4166840 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 28
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 4428180 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 30
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 327040 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 4755220 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 32
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 4950860 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 33
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 524140 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 5475000 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 37
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 5736340 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 38
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 5931980 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 40
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 327040 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 6259020 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 42
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 327040 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 6586060 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 44
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 6781700 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 45
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 6977340 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 46
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 7172980 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 48
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 524140 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 7697120 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 51
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 7892760 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 52
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 8088400 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 54
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 655540 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 8743940 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 58
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 524140 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 9268080 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 62
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 5847300 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 15115380 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 100
+2014-04-21 23:12:45 INFO  Client:129 - Am primit in pasul asta: 64442 bytes. 
+2014-04-21 23:12:45 INFO  Client:131 - In total pana acum : 15179822 bytes. 
+2014-04-21 23:12:45 INFO  Client:133 - Procent: 100
+2014-04-21 23:37:03 INFO  Client:126 - From User
+2014-04-21 23:38:37 INFO  Client:126 - From User
+2014-04-21 23:38:37 INFO  Client:129 - Am primit in pasul asta: 304 bytes. 
+2014-04-21 23:38:37 INFO  Client:131 - In total pana acum : 304 bytes. 
+2014-04-21 23:38:37 INFO  Client:133 - Procent: 100
+2014-04-21 23:40:11 INFO  Client:127 - From User
+2014-04-21 23:40:11 INFO  Client:130 - Am primit in pasul asta: 304 bytes. 
+2014-04-21 23:40:11 INFO  Client:132 - In total pana acum : 304 bytes. 
+2014-04-21 23:40:11 INFO  Client:134 - Procent: 100
+2014-04-21 23:43:26 INFO  Client:128 - From User
+2014-04-21 23:43:26 INFO  Client:131 - Am primit in pasul asta: 65700 bytes. 
+2014-04-21 23:43:26 INFO  Client:133 - In total pana acum : 65700 bytes. 
+2014-04-21 23:43:26 INFO  Client:135 - Procent: 79
+2014-04-21 23:43:26 INFO  Client:131 - Am primit in pasul asta: 18188 bytes. 
+2014-04-21 23:43:26 INFO  Client:133 - In total pana acum : 83888 bytes. 
+2014-04-21 23:43:26 INFO  Client:135 - Procent: 100
+2014-04-21 23:43:28 INFO  Client:128 - From User
+2014-04-21 23:43:28 INFO  Client:131 - Am primit in pasul asta: 304 bytes. 
+2014-04-21 23:43:28 INFO  Client:133 - In total pana acum : 304 bytes. 
+2014-04-21 23:43:28 INFO  Client:135 - Procent: 100
+2014-04-21 23:43:30 INFO  Client:128 - From User
+2014-04-21 23:43:30 INFO  Client:131 - Am primit in pasul asta: 40 bytes. 
+2014-04-21 23:43:30 INFO  Client:133 - In total pana acum : 40 bytes. 
+2014-04-21 23:43:30 INFO  Client:135 - Procent: 100
+2014-04-21 23:50:41 INFO  Client:128 - From User
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 373760 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 373760 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 2
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 258420 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 632180 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 3
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 827820 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 4
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 1023460 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 5
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 1284800 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 6
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 1480440 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 6
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 1676080 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 7
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 1871720 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 8
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 2067360 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 9
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 2328700 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 10
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 2524340 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 11
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 2719980 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 11
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 2981320 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 13
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 392740 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 3374060 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 14
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 458440 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 3832500 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 16
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 327040 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 4159540 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 17
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 458440 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 4617980 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 19
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 4813620 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 20
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 5074960 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 21
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 458440 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 5533400 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 23
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 259880 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 5793280 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 24
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 325580 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 6118860 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 25
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 322660 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 6441520 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 27
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 6637160 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 27
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 6898500 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 28
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 7159840 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 29
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 324120 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 7483960 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 31
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 242360 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 7726320 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 32
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 7987660 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 33
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 8249000 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 34
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 524140 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 8773140 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 36
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 9034480 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 37
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 9295820 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 38
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 392740 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 9688560 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 40
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 392740 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 10081300 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 41
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 654080 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 10735380 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 44
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 10931020 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 45
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 327040 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 11258060 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 46
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 11519400 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 47
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 11780740 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 48
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 11976380 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 49
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 12237720 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 50
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 12499060 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 51
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 392740 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 12891800 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 53
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 13087440 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 53
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 13283080 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 54
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 13478720 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 55
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 524140 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 14002860 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 57
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 524140 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 14527000 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 59
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 392740 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 14919740 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 61
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 15115380 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 62
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 458440 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 15573820 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 63
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 721240 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 16295060 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 66
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 458440 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 16753500 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 68
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 17014840 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 69
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 17276180 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 70
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 17471820 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 71
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 984040 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 18455860 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 75
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 851180 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 19307040 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 78
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 19502680 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 79
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 19764020 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 80
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 392740 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 20156760 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 82
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 20352400 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 83
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 458440 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 20810840 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 85
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 3942000 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 24752840 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 100
+2014-04-21 23:50:41 INFO  Client:131 - Am primit in pasul asta: 11496 bytes. 
+2014-04-21 23:50:41 INFO  Client:133 - In total pana acum : 24764336 bytes. 
+2014-04-21 23:50:41 INFO  Client:135 - Procent: 100
+2014-04-21 23:50:45 INFO  Client:128 - From User
+2014-04-21 23:50:45 INFO  Client:131 - Am primit in pasul asta: 1051200 bytes. 
+2014-04-21 23:50:45 INFO  Client:133 - In total pana acum : 1051200 bytes. 
+2014-04-21 23:50:45 INFO  Client:135 - Procent: 96
+2014-04-21 23:50:45 INFO  Client:131 - Am primit in pasul asta: 51048 bytes. 
+2014-04-21 23:50:45 INFO  Client:133 - In total pana acum : 1102248 bytes. 
+2014-04-21 23:50:45 INFO  Client:135 - Procent: 100
+2014-04-21 23:50:47 INFO  Client:128 - From User
+2014-04-21 23:50:47 INFO  Client:131 - Am primit in pasul asta: 32 bytes. 
+2014-04-21 23:50:47 INFO  Client:133 - In total pana acum : 32 bytes. 
+2014-04-21 23:50:47 INFO  Client:135 - Procent: 100
+2014-04-21 23:50:50 INFO  Client:128 - From User
+2014-04-21 23:50:50 INFO  Client:131 - Am primit in pasul asta: 15176700 bytes. 
+2014-04-21 23:50:50 INFO  Client:133 - In total pana acum : 15176700 bytes. 
+2014-04-21 23:50:50 INFO  Client:135 - Procent: 100
+2014-04-21 23:50:50 INFO  Client:131 - Am primit in pasul asta: 3122 bytes. 
+2014-04-21 23:50:50 INFO  Client:133 - In total pana acum : 15179822 bytes. 
+2014-04-21 23:50:50 INFO  Client:135 - Procent: 100
+2014-04-21 23:50:51 INFO  Client:128 - From User
+2014-04-21 23:50:51 INFO  Client:131 - Am primit in pasul asta: 65700 bytes. 
+2014-04-21 23:50:51 INFO  Client:133 - In total pana acum : 65700 bytes. 
+2014-04-21 23:50:51 INFO  Client:135 - Procent: 79
+2014-04-21 23:50:51 INFO  Client:131 - Am primit in pasul asta: 18188 bytes. 
+2014-04-21 23:50:51 INFO  Client:133 - In total pana acum : 83888 bytes. 
+2014-04-21 23:50:51 INFO  Client:135 - Procent: 100
+2014-04-21 23:50:54 INFO  Client:128 - From User
+2014-04-21 23:50:54 INFO  Client:131 - Am primit in pasul asta: 304 bytes. 
+2014-04-21 23:50:54 INFO  Client:133 - In total pana acum : 304 bytes. 
+2014-04-21 23:50:54 INFO  Client:135 - Procent: 100
+2014-04-21 23:50:56 INFO  Client:128 - From User
+2014-04-21 23:50:56 INFO  Client:131 - Am primit in pasul asta: 40 bytes. 
+2014-04-21 23:50:56 INFO  Client:133 - In total pana acum : 40 bytes. 
+2014-04-21 23:50:56 INFO  Client:135 - Procent: 100
+2014-04-22 00:12:22 INFO  Client:128 - From User
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 372300 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 372300 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 3
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 325580 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 697880 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 5
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 893520 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 6
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 306600 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 1200120 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 8
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 1395760 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 10
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 1591400 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 11
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 1787040 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 12
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 2692240 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 4479280 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 30
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 984040 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 5463320 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 36
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 5658960 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 38
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 5854600 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 39
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 6050240 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 40
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 6245880 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 42
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 6507220 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 43
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 6702860 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 45
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 6898500 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 46
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 392740 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 7291240 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 49
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 7618280 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 51
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 7813920 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 52
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 8140960 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 54
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 458440 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 8599400 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 57
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 8860740 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 59
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 1838140 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 10698880 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 71
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 10894520 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 72
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 11090160 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 74
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 392740 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 11482900 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 76
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 11809940 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 78
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 12071280 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 80
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 12398320 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 82
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 392740 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 12791060 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 85
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 12986700 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 86
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 13313740 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 88
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 455520 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 13769260 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 91
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 14096300 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 93
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 14357640 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 95
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 389820 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 14747460 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 98
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 394200 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 15141660 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 100
+2014-04-22 00:12:22 INFO  Client:131 - Am primit in pasul asta: 38162 bytes. 
+2014-04-22 00:12:22 INFO  Client:133 - In total pana acum : 15179822 bytes. 
+2014-04-22 00:12:22 INFO  Client:135 - Procent: 100
+2014-04-22 00:12:27 INFO  Client:128 - From User
+2014-04-22 00:12:27 INFO  Client:131 - Am primit in pasul asta: 373760 bytes. 
+2014-04-22 00:12:27 INFO  Client:133 - In total pana acum : 373760 bytes. 
+2014-04-22 00:12:27 INFO  Client:135 - Procent: 34
+2014-04-22 00:12:27 INFO  Client:131 - Am primit in pasul asta: 259880 bytes. 
+2014-04-22 00:12:27 INFO  Client:133 - In total pana acum : 633640 bytes. 
+2014-04-22 00:12:27 INFO  Client:135 - Procent: 58
+2014-04-22 00:12:27 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:27 INFO  Client:133 - In total pana acum : 829280 bytes. 
+2014-04-22 00:12:27 INFO  Client:135 - Procent: 76
+2014-04-22 00:12:27 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:27 INFO  Client:133 - In total pana acum : 1024920 bytes. 
+2014-04-22 00:12:27 INFO  Client:135 - Procent: 93
+2014-04-22 00:12:27 INFO  Client:131 - Am primit in pasul asta: 65700 bytes. 
+2014-04-22 00:12:27 INFO  Client:133 - In total pana acum : 1090620 bytes. 
+2014-04-22 00:12:27 INFO  Client:135 - Procent: 99
+2014-04-22 00:12:27 INFO  Client:131 - Am primit in pasul asta: 11628 bytes. 
+2014-04-22 00:12:27 INFO  Client:133 - In total pana acum : 1102248 bytes. 
+2014-04-22 00:12:27 INFO  Client:135 - Procent: 100
+2014-04-22 00:12:30 INFO  Client:128 - From User
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 261340 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 2
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 259880 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 521220 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 3
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 782560 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 4
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 978200 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 4
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 1305240 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 6
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 1500880 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 7
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 1696520 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 7
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 1892160 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 8
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 2087800 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 9
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 2349140 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 10
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 2544780 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 11
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 2740420 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 12
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 2936060 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 12
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 786940 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 3723000 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 16
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 3918640 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 16
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 4114280 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 17
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 4441320 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 18
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 4636960 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 19
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 4832600 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 20
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 5028240 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 21
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 5223880 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 22
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 5485220 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 23
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 5680860 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 23
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 5876500 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 24
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 6072140 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 25
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 1509640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 7581780 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 31
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 7777420 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 32
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 8038760 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 33
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 8365800 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 34
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 1312540 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 9678340 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 40
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 9873980 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 40
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 10069620 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 41
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 10265260 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 42
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 522680 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 10787940 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 44
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 11049280 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 45
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 11310620 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 46
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 11506260 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 47
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 325580 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 11831840 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 48
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 12027480 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 49
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 391280 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 12418760 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 51
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 391280 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 12810040 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 52
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 13005680 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 53
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 13201320 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 54
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 242360 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 13443680 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 55
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 392740 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 13836420 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 56
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 14032060 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 57
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 14227700 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 58
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 14423340 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 59
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 14618980 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 60
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 14880320 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 61
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 15075960 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 61
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 15271600 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 62
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 15467240 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 63
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 15662880 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 64
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 15989920 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 65
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 16185560 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 66
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 16381200 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 67
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 16576840 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 67
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 458440 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 17035280 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 69
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 2757940 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 19793220 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 80
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 20120260 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 82
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 458440 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 20578700 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 84
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 20774340 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 84
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 20969980 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 85
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 21231320 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 86
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 21426960 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 87
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 21622600 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 88
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 655540 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 22278140 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 90
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 22539480 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 92
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 22735120 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 92
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 22930760 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 93
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 391280 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 23322040 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 95
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 23517680 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 95
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 23713320 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 96
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 389820 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 24103140 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 98
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 24364480 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 99
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 394200 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 24758680 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 100
+2014-04-22 00:12:30 INFO  Client:131 - Am primit in pasul asta: 5656 bytes. 
+2014-04-22 00:12:30 INFO  Client:133 - In total pana acum : 24764336 bytes. 
+2014-04-22 00:12:30 INFO  Client:135 - Procent: 100
+2014-04-22 00:12:33 INFO  Client:128 - From User
+2014-04-22 00:12:33 INFO  Client:131 - Am primit in pasul asta: 32 bytes. 
+2014-04-22 00:12:33 INFO  Client:133 - In total pana acum : 32 bytes. 
+2014-04-22 00:12:33 INFO  Client:135 - Procent: 100
+2014-04-22 00:12:36 INFO  Client:128 - From User
+2014-04-22 00:12:36 INFO  Client:131 - Am primit in pasul asta: 304 bytes. 
+2014-04-22 00:12:36 INFO  Client:133 - In total pana acum : 304 bytes. 
+2014-04-22 00:12:36 INFO  Client:135 - Procent: 100
+2014-04-22 00:12:38 INFO  Client:128 - From User
+2014-04-22 00:12:38 INFO  Client:131 - Am primit in pasul asta: 40 bytes. 
+2014-04-22 00:12:38 INFO  Client:133 - In total pana acum : 40 bytes. 
+2014-04-22 00:12:38 INFO  Client:135 - Procent: 100
+2014-04-22 00:48:06 INFO  Client:135 - Am primit in pasul asta: 65700 bytes. 
+2014-04-22 00:48:06 INFO  Client:137 - In total pana acum : 65700 bytes. 
+2014-04-22 00:48:06 INFO  Client:139 - Procent: 79
+2014-04-22 00:48:06 INFO  Client:135 - Am primit in pasul asta: 18188 bytes. 
+2014-04-22 00:48:06 INFO  Client:137 - In total pana acum : 83888 bytes. 
+2014-04-22 00:48:06 INFO  Client:139 - Procent: 100
+2014-04-22 00:49:32 INFO  Client:135 - Am primit in pasul asta: 65700 bytes. 
+2014-04-22 00:49:32 INFO  Client:137 - In total pana acum : 65700 bytes. 
+2014-04-22 00:49:32 INFO  Client:139 - Procent: 79
+2014-04-22 00:49:32 INFO  Client:135 - Am primit in pasul asta: 18188 bytes. 
+2014-04-22 00:49:32 INFO  Client:137 - In total pana acum : 83888 bytes. 
+2014-04-22 00:49:32 INFO  Client:139 - Procent: 100
+2014-04-22 00:49:50 INFO  Client:135 - Am primit in pasul asta: 32 bytes. 
+2014-04-22 00:49:50 INFO  Client:137 - In total pana acum : 32 bytes. 
+2014-04-22 00:49:50 INFO  Client:139 - Procent: 100
+2014-04-22 00:49:52 INFO  Client:135 - Am primit in pasul asta: 304 bytes. 
+2014-04-22 00:49:52 INFO  Client:137 - In total pana acum : 304 bytes. 
+2014-04-22 00:49:52 INFO  Client:139 - Procent: 100
+2014-04-22 00:50:00 INFO  Client:135 - Am primit in pasul asta: 40 bytes. 
+2014-04-22 00:50:00 INFO  Client:137 - In total pana acum : 40 bytes. 
+2014-04-22 00:50:00 INFO  Client:139 - Procent: 100
+2014-04-22 01:00:23 INFO  Client:135 - Am primit in pasul asta: 65700 bytes. 
+2014-04-22 01:00:23 INFO  Client:137 - In total pana acum : 65700 bytes. 
+2014-04-22 01:00:23 INFO  Client:139 - Procent: 79
+2014-04-22 01:00:23 INFO  Client:135 - Am primit in pasul asta: 18188 bytes. 
+2014-04-22 01:00:23 INFO  Client:137 - In total pana acum : 83888 bytes. 
+2014-04-22 01:00:23 INFO  Client:139 - Procent: 100
+2014-04-22 01:00:27 INFO  Client:135 - Am primit in pasul asta: 304 bytes. 
+2014-04-22 01:00:27 INFO  Client:137 - In total pana acum : 304 bytes. 
+2014-04-22 01:00:27 INFO  Client:139 - Procent: 100
+2014-04-22 01:00:29 INFO  Client:135 - Am primit in pasul asta: 40 bytes. 
+2014-04-22 01:00:29 INFO  Client:137 - In total pana acum : 40 bytes. 
+2014-04-22 01:00:29 INFO  Client:139 - Procent: 100
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 1113980 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 1113980 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 8
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 1309620 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 9
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 1505260 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 10
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 1700900 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 12
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 1896540 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 13
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 2092180 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 14
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 2353520 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 16
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 1378240 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 3731760 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 25
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 3993100 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 27
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 7751140 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 11744240 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 78
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 392740 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 12136980 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 80
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 12398320 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 82
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 392740 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 12791060 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 85
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 13118100 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 87
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 13445140 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 89
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 324120 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 13769260 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 91
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 14030600 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 93
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 14357640 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 95
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 14618980 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 97
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 14880320 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 99
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 296380 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 15176700 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 100
+2014-04-22 01:01:17 INFO  Client:135 - Am primit in pasul asta: 3122 bytes. 
+2014-04-22 01:01:17 INFO  Client:137 - In total pana acum : 15179822 bytes. 
+2014-04-22 01:01:17 INFO  Client:139 - Procent: 100
+2014-04-22 01:01:19 INFO  Client:135 - Am primit in pasul asta: 304 bytes. 
+2014-04-22 01:01:19 INFO  Client:137 - In total pana acum : 304 bytes. 
+2014-04-22 01:01:19 INFO  Client:139 - Procent: 100
+2014-04-22 01:01:21 INFO  Client:135 - Am primit in pasul asta: 40 bytes. 
+2014-04-22 01:01:21 INFO  Client:137 - In total pana acum : 40 bytes. 
+2014-04-22 01:01:21 INFO  Client:139 - Procent: 100
+2014-04-22 01:02:57 INFO  Client:135 - Am primit in pasul asta: 65700 bytes. 
+2014-04-22 01:02:57 INFO  Client:138 - In total pana acum : 65700 bytes. 
+2014-04-22 01:02:57 INFO  Client:141 - Procent: 79
+2014-04-22 01:02:57 INFO  Client:135 - Am primit in pasul asta: 18188 bytes. 
+2014-04-22 01:02:57 INFO  Client:138 - In total pana acum : 83888 bytes. 
+2014-04-22 01:02:57 INFO  Client:141 - Procent: 100
+2014-04-22 01:02:59 INFO  Client:135 - Am primit in pasul asta: 304 bytes. 
+2014-04-22 01:02:59 INFO  Client:138 - In total pana acum : 304 bytes. 
+2014-04-22 01:02:59 INFO  Client:141 - Procent: 100
+2014-04-22 01:03:00 INFO  Client:135 - Am primit in pasul asta: 40 bytes. 
+2014-04-22 01:03:00 INFO  Client:138 - In total pana acum : 40 bytes. 
+2014-04-22 01:03:00 INFO  Client:141 - Procent: 100
+2014-04-22 01:03:19 INFO  Client:135 - Am primit in pasul asta: 524140 bytes. 
+2014-04-22 01:03:19 INFO  Client:138 - In total pana acum : 524140 bytes. 
+2014-04-22 01:03:19 INFO  Client:141 - Procent: 48
+2014-04-22 01:03:19 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 01:03:19 INFO  Client:138 - In total pana acum : 851180 bytes. 
+2014-04-22 01:03:19 INFO  Client:141 - Procent: 78
+2014-04-22 01:03:19 INFO  Client:135 - Am primit in pasul asta: 197100 bytes. 
+2014-04-22 01:03:19 INFO  Client:138 - In total pana acum : 1048280 bytes. 
+2014-04-22 01:03:19 INFO  Client:141 - Procent: 96
+2014-04-22 01:03:19 INFO  Client:135 - Am primit in pasul asta: 53968 bytes. 
+2014-04-22 01:03:19 INFO  Client:138 - In total pana acum : 1102248 bytes. 
+2014-04-22 01:03:19 INFO  Client:141 - Procent: 100
+2014-04-22 01:03:20 INFO  Client:135 - Am primit in pasul asta: 373760 bytes. 
+2014-04-22 01:03:20 INFO  Client:138 - In total pana acum : 373760 bytes. 
+2014-04-22 01:03:20 INFO  Client:141 - Procent: 2
+2014-04-22 01:03:20 INFO  Client:135 - Am primit in pasul asta: 392740 bytes. 
+2014-04-22 01:03:20 INFO  Client:138 - In total pana acum : 766500 bytes. 
+2014-04-22 01:03:20 INFO  Client:141 - Procent: 4
+2014-04-22 01:03:20 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 01:03:20 INFO  Client:138 - In total pana acum : 962140 bytes. 
+2014-04-22 01:03:20 INFO  Client:141 - Procent: 4
+2014-04-22 01:03:20 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 01:03:20 INFO  Client:138 - In total pana acum : 1289180 bytes. 
+2014-04-22 01:03:20 INFO  Client:141 - Procent: 6
+2014-04-22 01:03:20 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 01:03:20 INFO  Client:138 - In total pana acum : 1484820 bytes. 
+2014-04-22 01:03:20 INFO  Client:141 - Procent: 6
+2014-04-22 01:03:20 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 01:03:20 INFO  Client:138 - In total pana acum : 1680460 bytes. 
+2014-04-22 01:03:20 INFO  Client:141 - Procent: 7
+2014-04-22 01:03:20 INFO  Client:135 - Am primit in pasul asta: 8145340 bytes. 
+2014-04-22 01:03:20 INFO  Client:138 - In total pana acum : 9825800 bytes. 
+2014-04-22 01:03:20 INFO  Client:141 - Procent: 40
+2014-04-22 01:03:20 INFO  Client:135 - Am primit in pasul asta: 8866580 bytes. 
+2014-04-22 01:03:20 INFO  Client:138 - In total pana acum : 18692380 bytes. 
+2014-04-22 01:03:20 INFO  Client:141 - Procent: 76
+2014-04-22 01:03:20 INFO  Client:135 - Am primit in pasul asta: 6044400 bytes. 
+2014-04-22 01:03:20 INFO  Client:138 - In total pana acum : 24736780 bytes. 
+2014-04-22 01:03:20 INFO  Client:141 - Procent: 100
+2014-04-22 01:03:20 INFO  Client:135 - Am primit in pasul asta: 27556 bytes. 
+2014-04-22 01:03:20 INFO  Client:138 - In total pana acum : 24764336 bytes. 
+2014-04-22 01:03:20 INFO  Client:141 - Procent: 100
+2014-04-22 01:03:21 INFO  Client:135 - Am primit in pasul asta: 32 bytes. 
+2014-04-22 01:03:21 INFO  Client:138 - In total pana acum : 32 bytes. 
+2014-04-22 01:03:21 INFO  Client:141 - Procent: 100
+2014-04-22 13:51:37 INFO  Client:135 - Am primit in pasul asta: 65700 bytes. 
+2014-04-22 13:51:37 INFO  Client:138 - In total pana acum : 65700 bytes. 
+2014-04-22 13:51:37 INFO  Client:141 - Procent: 79
+2014-04-22 13:51:37 INFO  Client:135 - Am primit in pasul asta: 18188 bytes. 
+2014-04-22 13:51:37 INFO  Client:138 - In total pana acum : 83888 bytes. 
+2014-04-22 13:51:37 INFO  Client:141 - Procent: 100
+2014-04-22 13:51:40 INFO  Client:135 - Am primit in pasul asta: 15176700 bytes. 
+2014-04-22 13:51:40 INFO  Client:138 - In total pana acum : 15176700 bytes. 
+2014-04-22 13:51:40 INFO  Client:141 - Procent: 100
+2014-04-22 13:51:40 INFO  Client:135 - Am primit in pasul asta: 3122 bytes. 
+2014-04-22 13:51:40 INFO  Client:138 - In total pana acum : 15179822 bytes. 
+2014-04-22 13:51:40 INFO  Client:141 - Procent: 100
+2014-04-22 13:51:42 INFO  Client:135 - Am primit in pasul asta: 6042940 bytes. 
+2014-04-22 13:51:42 INFO  Client:138 - In total pana acum : 6042940 bytes. 
+2014-04-22 13:51:42 INFO  Client:141 - Procent: 25
+2014-04-22 13:51:42 INFO  Client:135 - Am primit in pasul asta: 4269040 bytes. 
+2014-04-22 13:51:42 INFO  Client:138 - In total pana acum : 10311980 bytes. 
+2014-04-22 13:51:42 INFO  Client:141 - Procent: 42
+2014-04-22 13:51:42 INFO  Client:135 - Am primit in pasul asta: 589840 bytes. 
+2014-04-22 13:51:42 INFO  Client:138 - In total pana acum : 10901820 bytes. 
+2014-04-22 13:51:42 INFO  Client:141 - Procent: 45
+2014-04-22 13:51:42 INFO  Client:135 - Am primit in pasul asta: 1181140 bytes. 
+2014-04-22 13:51:42 INFO  Client:138 - In total pana acum : 12082960 bytes. 
+2014-04-22 13:51:42 INFO  Client:141 - Procent: 49
+2014-04-22 13:51:42 INFO  Client:135 - Am primit in pasul asta: 6765640 bytes. 
+2014-04-22 13:51:42 INFO  Client:138 - In total pana acum : 18848600 bytes. 
+2014-04-22 13:51:42 INFO  Client:141 - Procent: 77
+2014-04-22 13:51:42 INFO  Client:135 - Am primit in pasul asta: 984040 bytes. 
+2014-04-22 13:51:42 INFO  Client:138 - In total pana acum : 19832640 bytes. 
+2014-04-22 13:51:42 INFO  Client:141 - Procent: 81
+2014-04-22 13:51:42 INFO  Client:135 - Am primit in pasul asta: 4927500 bytes. 
+2014-04-22 13:51:42 INFO  Client:138 - In total pana acum : 24760140 bytes. 
+2014-04-22 13:51:42 INFO  Client:141 - Procent: 100
+2014-04-22 13:51:42 INFO  Client:135 - Am primit in pasul asta: 4196 bytes. 
+2014-04-22 13:51:42 INFO  Client:138 - In total pana acum : 24764336 bytes. 
+2014-04-22 13:51:42 INFO  Client:141 - Procent: 100
+2014-04-22 13:51:43 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 13:51:43 INFO  Client:138 - In total pana acum : 261340 bytes. 
+2014-04-22 13:51:43 INFO  Client:141 - Procent: 24
+2014-04-22 13:51:43 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 13:51:43 INFO  Client:138 - In total pana acum : 522680 bytes. 
+2014-04-22 13:51:43 INFO  Client:141 - Procent: 48
+2014-04-22 13:51:43 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 13:51:43 INFO  Client:138 - In total pana acum : 849720 bytes. 
+2014-04-22 13:51:43 INFO  Client:141 - Procent: 78
+2014-04-22 13:51:43 INFO  Client:135 - Am primit in pasul asta: 197100 bytes. 
+2014-04-22 13:51:43 INFO  Client:138 - In total pana acum : 1046820 bytes. 
+2014-04-22 13:51:43 INFO  Client:141 - Procent: 95
+2014-04-22 13:51:43 INFO  Client:135 - Am primit in pasul asta: 55428 bytes. 
+2014-04-22 13:51:43 INFO  Client:138 - In total pana acum : 1102248 bytes. 
+2014-04-22 13:51:43 INFO  Client:141 - Procent: 100
+2014-04-22 13:51:47 INFO  Client:135 - Am primit in pasul asta: 32 bytes. 
+2014-04-22 13:51:47 INFO  Client:138 - In total pana acum : 32 bytes. 
+2014-04-22 13:51:47 INFO  Client:141 - Procent: 100
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 242360 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 242360 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 2
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 503700 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 4
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 765040 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 6
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 960680 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 7
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 1287720 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 9
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 1483360 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 10
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 589840 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 2073200 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 14
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 589840 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 2663040 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 18
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 2858680 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 19
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 3054320 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 21
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 325580 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 3379900 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 23
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 3575540 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 24
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 3771180 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 25
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 3966820 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 27
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 4162460 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 28
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 4489500 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 30
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 4685140 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 31
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 5012180 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 34
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 458440 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 5470620 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 37
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 5731960 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 38
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 6059000 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 40
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 524140 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 6583140 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 44
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 6910180 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 46
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 392740 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 7302920 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 49
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 7629960 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 51
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 7891300 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 52
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 8152640 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 54
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 389820 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 8542460 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 57
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 852640 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 9395100 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 62
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 9656440 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 64
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 9852080 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 65
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 325580 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 10177660 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 68
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 1575340 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 11753000 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 78
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 12014340 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 80
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 458440 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 12472780 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 83
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 12799820 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 85
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 12995460 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 86
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 13256800 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 88
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 1115440 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 14372240 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 95
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 14633580 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 97
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 14960620 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 99
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 197100 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 15157720 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 100
+2014-04-22 13:53:12 INFO  Client:135 - Am primit in pasul asta: 22102 bytes. 
+2014-04-22 13:53:12 INFO  Client:138 - In total pana acum : 15179822 bytes. 
+2014-04-22 13:53:12 INFO  Client:141 - Procent: 100
+2014-04-22 13:53:14 INFO  Client:135 - Am primit in pasul asta: 304 bytes. 
+2014-04-22 13:53:14 INFO  Client:138 - In total pana acum : 304 bytes. 
+2014-04-22 13:53:14 INFO  Client:141 - Procent: 100
+2014-04-22 13:53:16 INFO  Client:135 - Am primit in pasul asta: 40 bytes. 
+2014-04-22 13:53:16 INFO  Client:138 - In total pana acum : 40 bytes. 
+2014-04-22 13:53:16 INFO  Client:141 - Procent: 100
+2014-04-22 13:53:46 INFO  Client:135 - Am primit in pasul asta: 721240 bytes. 
+2014-04-22 13:53:46 INFO  Client:138 - In total pana acum : 721240 bytes. 
+2014-04-22 13:53:46 INFO  Client:141 - Procent: 3
+2014-04-22 13:53:46 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 13:53:46 INFO  Client:138 - In total pana acum : 1048280 bytes. 
+2014-04-22 13:53:46 INFO  Client:141 - Procent: 5
+2014-04-22 13:53:46 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 13:53:46 INFO  Client:138 - In total pana acum : 1309620 bytes. 
+2014-04-22 13:53:46 INFO  Client:141 - Procent: 6
+2014-04-22 13:53:46 INFO  Client:135 - Am primit in pasul asta: 325580 bytes. 
+2014-04-22 13:53:46 INFO  Client:138 - In total pana acum : 1635200 bytes. 
+2014-04-22 13:53:46 INFO  Client:141 - Procent: 7
+2014-04-22 13:53:46 INFO  Client:135 - Am primit in pasul asta: 392740 bytes. 
+2014-04-22 13:53:46 INFO  Client:138 - In total pana acum : 2027940 bytes. 
+2014-04-22 13:53:46 INFO  Client:141 - Procent: 9
+2014-04-22 13:53:46 INFO  Client:135 - Am primit in pasul asta: 325580 bytes. 
+2014-04-22 13:53:46 INFO  Client:138 - In total pana acum : 2353520 bytes. 
+2014-04-22 13:53:46 INFO  Client:141 - Procent: 10
+2014-04-22 13:53:46 INFO  Client:135 - Am primit in pasul asta: 786940 bytes. 
+2014-04-22 13:53:46 INFO  Client:138 - In total pana acum : 3140460 bytes. 
+2014-04-22 13:53:46 INFO  Client:141 - Procent: 13
+2014-04-22 13:53:46 INFO  Client:135 - Am primit in pasul asta: 9065140 bytes. 
+2014-04-22 13:53:46 INFO  Client:138 - In total pana acum : 12205600 bytes. 
+2014-04-22 13:53:46 INFO  Client:141 - Procent: 50
+2014-04-22 13:53:46 INFO  Client:135 - Am primit in pasul asta: 10049180 bytes. 
+2014-04-22 13:53:46 INFO  Client:138 - In total pana acum : 22254780 bytes. 
+2014-04-22 13:53:46 INFO  Client:141 - Procent: 90
+2014-04-22 13:53:46 INFO  Client:135 - Am primit in pasul asta: 2496600 bytes. 
+2014-04-22 13:53:46 INFO  Client:138 - In total pana acum : 24751380 bytes. 
+2014-04-22 13:53:46 INFO  Client:141 - Procent: 100
+2014-04-22 13:53:46 INFO  Client:135 - Am primit in pasul asta: 12956 bytes. 
+2014-04-22 13:53:46 INFO  Client:138 - In total pana acum : 24764336 bytes. 
+2014-04-22 13:53:46 INFO  Client:141 - Procent: 100
+2014-04-22 13:53:49 INFO  Client:135 - Am primit in pasul asta: 304 bytes. 
+2014-04-22 13:53:49 INFO  Client:138 - In total pana acum : 304 bytes. 
+2014-04-22 13:53:49 INFO  Client:141 - Procent: 100
+2014-04-22 13:53:51 INFO  Client:135 - Am primit in pasul asta: 40 bytes. 
+2014-04-22 13:53:51 INFO  Client:138 - In total pana acum : 40 bytes. 
+2014-04-22 13:53:51 INFO  Client:141 - Procent: 100
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 389820 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 389820 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 3
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 259880 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 649700 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 5
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 911040 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 7
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 392740 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 1303780 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 9
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 3086440 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 4390220 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 29
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 4585860 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 31
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 4781500 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 32
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 4977140 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 33
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 5172780 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 35
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 5499820 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 37
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 5695460 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 38
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 5891100 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 39
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 6086740 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 41
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 456980 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 6543720 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 44
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 6739360 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 45
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 6935000 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 46
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 7130640 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 47
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 197100 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 7327740 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 49
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 259880 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 7587620 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 50
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 7783260 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 52
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 7978900 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 53
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 8174540 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 54
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 655540 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 8830080 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 59
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 6307200 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 15137280 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 100
+2014-04-22 13:53:53 INFO  Client:135 - Am primit in pasul asta: 42542 bytes. 
+2014-04-22 13:53:53 INFO  Client:138 - In total pana acum : 15179822 bytes. 
+2014-04-22 13:53:53 INFO  Client:141 - Procent: 100
+2014-04-26 22:23:56 INFO  Client:135 - Am primit in pasul asta: 65700 bytes. 
+2014-04-26 22:23:56 INFO  Client:138 - In total pana acum : 65700 bytes. 
+2014-04-26 22:23:56 INFO  Client:141 - Procent: 79
+2014-04-26 22:23:56 INFO  Client:135 - Am primit in pasul asta: 18188 bytes. 
+2014-04-26 22:23:56 INFO  Client:138 - In total pana acum : 83888 bytes. 
+2014-04-26 22:23:56 INFO  Client:141 - Procent: 100
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 373760 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 373760 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 2
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 259880 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 633640 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 3
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 829280 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 4
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 588380 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 1417660 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 6
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 392740 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 1810400 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 8
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 2071740 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 9
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 2398780 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 10
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 1181140 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 3579920 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 15
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 3841260 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 16
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 4102600 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 17
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 4429640 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 18
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 4625280 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 19
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 4952320 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 20
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 553340 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 5505660 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 23
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 5767000 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 24
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 458440 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 6225440 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 26
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 2757940 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 8983380 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 37
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 9310420 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 38
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 458440 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 9768860 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 40
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 392740 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 10161600 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 42
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 10357240 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 42
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 10684280 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 44
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 11011320 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 45
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 11206960 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 46
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 524140 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 11731100 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 48
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 11992440 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 49
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 12319480 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 50
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 654080 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 12973560 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 53
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 13169200 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 54
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 13430540 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 55
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 524140 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 13954680 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 57
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 984040 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 14938720 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 61
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 458440 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 15397160 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 63
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 786940 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 16184100 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 66
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 4334740 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 20518840 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 83
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 833660 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 21352500 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 87
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 21679540 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 88
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 21940880 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 89
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 719780 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 22660660 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 92
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 1772440 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 24433100 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 99
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 328500 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 24761600 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 100
+2014-04-26 22:24:05 INFO  Client:135 - Am primit in pasul asta: 2736 bytes. 
+2014-04-26 22:24:05 INFO  Client:138 - In total pana acum : 24764336 bytes. 
+2014-04-26 22:24:05 INFO  Client:141 - Procent: 100
+2014-04-26 22:24:07 INFO  Client:135 - Am primit in pasul asta: 32 bytes. 
+2014-04-26 22:24:07 INFO  Client:138 - In total pana acum : 32 bytes. 
+2014-04-26 22:24:07 INFO  Client:141 - Procent: 100
+2014-04-26 22:24:10 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-04-26 22:24:10 INFO  Client:138 - In total pana acum : 327040 bytes. 
+2014-04-26 22:24:10 INFO  Client:141 - Procent: 30
+2014-04-26 22:24:10 INFO  Client:135 - Am primit in pasul asta: 325580 bytes. 
+2014-04-26 22:24:10 INFO  Client:138 - In total pana acum : 652620 bytes. 
+2014-04-26 22:24:10 INFO  Client:141 - Procent: 60
+2014-04-26 22:24:10 INFO  Client:135 - Am primit in pasul asta: 394200 bytes. 
+2014-04-26 22:24:10 INFO  Client:138 - In total pana acum : 1046820 bytes. 
+2014-04-26 22:24:10 INFO  Client:141 - Procent: 95
+2014-04-26 22:24:10 INFO  Client:135 - Am primit in pasul asta: 55428 bytes. 
+2014-04-26 22:24:10 INFO  Client:138 - In total pana acum : 1102248 bytes. 
+2014-04-26 22:24:10 INFO  Client:141 - Procent: 100
+2014-04-29 20:16:55 INFO  Client:135 - Am primit in pasul asta: 304 bytes. 
+2014-04-29 20:16:55 INFO  Client:138 - In total pana acum : 304 bytes. 
+2014-04-29 20:16:55 INFO  Client:141 - Procent: 100
+2014-04-29 20:17:00 INFO  Client:135 - Am primit in pasul asta: 389820 bytes. 
+2014-04-29 20:17:00 INFO  Client:138 - In total pana acum : 389820 bytes. 
+2014-04-29 20:17:00 INFO  Client:141 - Procent: 36
+2014-04-29 20:17:00 INFO  Client:135 - Am primit in pasul asta: 392740 bytes. 
+2014-04-29 20:17:00 INFO  Client:138 - In total pana acum : 782560 bytes. 
+2014-04-29 20:17:00 INFO  Client:141 - Procent: 71
+2014-04-29 20:17:00 INFO  Client:135 - Am primit in pasul asta: 262800 bytes. 
+2014-04-29 20:17:00 INFO  Client:138 - In total pana acum : 1045360 bytes. 
+2014-04-29 20:17:00 INFO  Client:141 - Procent: 95
+2014-04-29 20:17:00 INFO  Client:135 - Am primit in pasul asta: 56888 bytes. 
+2014-04-29 20:17:00 INFO  Client:138 - In total pana acum : 1102248 bytes. 
+2014-04-29 20:17:00 INFO  Client:141 - Procent: 100
+2014-05-05 18:00:13 INFO  Client:135 - Am primit in pasul asta: 1051200 bytes. 
+2014-05-05 18:00:13 INFO  Client:138 - In total pana acum : 1051200 bytes. 
+2014-05-05 18:00:13 INFO  Client:141 - Procent: 96
+2014-05-05 18:00:13 INFO  Client:135 - Am primit in pasul asta: 51048 bytes. 
+2014-05-05 18:00:13 INFO  Client:138 - In total pana acum : 1102248 bytes. 
+2014-05-05 18:00:13 INFO  Client:141 - Procent: 100
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 1
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 259880 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 455520 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 2
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 782560 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 4
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 978200 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 4
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 1305240 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 6
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 1500880 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 7
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 1696520 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 7
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 1892160 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 8
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 2087800 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 9
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 2349140 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 10
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 2544780 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 11
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 2740420 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 12
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 2936060 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 12
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 3131700 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 13
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 3458740 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 14
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 259880 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 3718620 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 16
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 721240 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 4439860 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 18
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 4635500 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 19
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 4831140 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 20
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 5158180 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 21
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 5485220 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 23
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 5680860 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 23
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 5876500 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 24
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 6072140 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 25
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 6267780 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 26
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 6529120 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 27
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 6724760 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 28
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 6920400 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 28
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 7116040 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 29
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 7311680 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 30
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 7573020 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 31
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 3152140 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 10725160 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 44
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 10986500 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 45
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 1838140 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 12824640 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 52
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 13151680 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 54
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 13347320 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 54
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 522680 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 13870000 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 57
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 14131340 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 58
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 1181140 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 15312480 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 62
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 721240 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 16033720 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 65
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 16295060 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 66
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 16490700 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 67
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 4728940 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 21219640 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 86
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 21415280 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 87
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 21610920 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 88
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 21937960 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 89
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 2825100 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 24763060 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 100
+2014-05-05 18:00:16 INFO  Client:135 - Am primit in pasul asta: 1276 bytes. 
+2014-05-05 18:00:16 INFO  Client:138 - In total pana acum : 24764336 bytes. 
+2014-05-05 18:00:16 INFO  Client:141 - Procent: 100
+2014-05-05 18:00:18 INFO  Client:135 - Am primit in pasul asta: 65700 bytes. 
+2014-05-05 18:00:18 INFO  Client:138 - In total pana acum : 65700 bytes. 
+2014-05-05 18:00:18 INFO  Client:141 - Procent: 79
+2014-05-05 18:00:18 INFO  Client:135 - Am primit in pasul asta: 18188 bytes. 
+2014-05-05 18:00:18 INFO  Client:138 - In total pana acum : 83888 bytes. 
+2014-05-05 18:00:18 INFO  Client:141 - Procent: 100
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 373760 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 373760 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 3
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 259880 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 633640 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 5
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 829280 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 6
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 1024920 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 7
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 1286260 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 9
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 1481900 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 10
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 1677540 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 12
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 1873180 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 13
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 588380 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 2461560 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 17
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 2722900 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 18
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 2984240 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 20
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 391280 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 3375520 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 23
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 3571160 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 24
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 3766800 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 25
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 4093840 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 27
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 327040 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 4420880 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 30
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 261340 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 4682220 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 31
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 4877860 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 33
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 5073500 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 34
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 456980 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 5530480 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 37
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 5726120 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 38
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 5921760 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 40
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 6117400 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 41
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 392740 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 6510140 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 43
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 6502840 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 13012980 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 86
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 1770980 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 14783960 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 98
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 195640 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 14979600 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 99
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 197100 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 15176700 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 100
+2014-05-05 18:00:24 INFO  Client:135 - Am primit in pasul asta: 3122 bytes. 
+2014-05-05 18:00:24 INFO  Client:138 - In total pana acum : 15179822 bytes. 
+2014-05-05 18:00:24 INFO  Client:141 - Procent: 100

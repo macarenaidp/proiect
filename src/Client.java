@@ -11,6 +11,7 @@ import java.nio.channels.SocketChannel;
 import java.nio.charset.Charset;
 import java.nio.charset.CharsetEncoder;
 import java.util.Iterator;
+import org.apache.log4j.*;
 
 public class Client {
 
@@ -18,6 +19,8 @@ public class Client {
 	public static boolean running = true;
 	public static String file_name = "";
 	public String destdir = "";
+	public static Logger logger = Logger.getLogger(Client.class);
+	public User source;
 
 	public Client(User source, String fileName, String destDir) {
 		super();
@@ -25,12 +28,16 @@ public class Client {
 		SocketChannel socketChannel	= null;
 		this.file_name = fileName;
 		this.destdir = destDir;
+		this.source = source;
+
+		running = true;
 
 		try {
 			selector = Selector.open();
 
 			socketChannel = SocketChannel.open();
 			socketChannel.configureBlocking(false);
+			System.out.println(source.getPort());
 			socketChannel.connect(new InetSocketAddress(source.getIP(), source.getPort()));
 			socketChannel.register(selector, SelectionKey.OP_CONNECT);
 
@@ -49,6 +56,7 @@ public class Client {
 						write(key);
 				}
 			}
+			socketChannel.close();
 
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -113,8 +121,28 @@ public class Client {
 			raf.setLength(0);
 			fc = raf.getChannel();
 			memBuf = fc.map(FileChannel.MapMode.READ_WRITE, 0, file_size);
+			
+			int progres = 0;
+			int value = 0;
 
-			while ((bytes = socketChannel.read(memBuf)) > 0);
+			PropertyConfigurator.configure("log4j.properties");
+			//BasicConfigurator.configure();
+			String curr_user = this.source.getName();
+			Logger user_logger = Logger.getLogger(curr_user);
+
+			while ((bytes = socketChannel.read(memBuf)) > 0){
+				System.out.println();
+				logger.info("Am primit in pasul asta: " + bytes + " bytes. ");
+				user_logger.info("Am primit in pasul asta: " + bytes + " bytes. ");
+				progres = progres + bytes;
+				logger.info("In total pana acum : " + progres + " bytes. ");
+				user_logger.info("In total pana acum : " + progres + " bytes. ");
+				value = (int)Math.ceil(((float)progres/file_size)*100);
+				logger.info("Procent: "+value);
+				user_logger.info("Procent: "+value);
+				ProgressWorker.upgradeProgress(value);
+				System.out.println();
+			}
 
 			// check for EOF
 			if (bytes == -1)
@@ -123,11 +151,10 @@ public class Client {
 			fc.close();
 			raf.close();
 			running = false;
+			socketChannel.close();
 
 		} catch (IOException e) {
 			socketChannel.close();
-			fc.close();
-			raf.close();
 			running = false;
 		}
 	}

@@ -73,17 +73,17 @@ public class Main extends JPanel {
 		jsp2.setName("scroll2");
 		right.add(jsp2);
 
-        JTable table = new JTable();
-        table.setName("progress_table");
-        table.setModel(new MyModel());//invoking our custom model
-        table.setDefaultRenderer(JLabel.class,  new Renderer());// for the rendering of cell
-        JScrollPane jp = new JScrollPane(table);
+		JTable table = new JTable();
+		table.setName("progress_table");
+		table.setModel(new MyModel());//invoking our custom model
+		table.setDefaultRenderer(JLabel.class,  new Renderer());// for the rendering of cell
+		JScrollPane jp = new JScrollPane(table);
 
-        middle.add(jp);
+		middle.add(jp);
 
-        this.statusBar = new JLabel("");
-        statusBar.setHorizontalAlignment(SwingConstants.LEFT);
-        bottom.add(statusBar);
+		this.statusBar = new JLabel("");
+		statusBar.setHorizontalAlignment(SwingConstants.LEFT);
+		bottom.add(statusBar);
 
 		// mediator init
 		med.registerList(file_list);
@@ -92,8 +92,12 @@ public class Main extends JPanel {
 		med.registerStatusBar(statusBar);
 
 		// Fake user for testing
-		String[] files = {"ceva.txt"};
-		med.addUser(files, "name", "127.0.0.1", 40002);
+		String[] files = {"ceva.txt","ceva2.txt","Curs.pdf","Curs2.pdf", "bugs.txt"};
+		String[] files2 = {"daffy.txt"};
+		String[] files3 = {"sam.txt"};
+		med.addUser(files, "bugs", "127.0.0.1", 40002);
+		med.addUser(files2, "daffy", "127.0.0.1", 40002);
+		med.addUser(files3, "sam", "127.0.0.1", 40002);
 
 		// Selection listener for the file list
 		file_list.addListSelectionListener(new ListSelectionListener() {
@@ -139,9 +143,6 @@ public class Main extends JPanel {
 			}
 		});
 
-		Server server = new Server("/home/camelia/Desktop/");
+		Server server = new Server("C:\\idp\\Server\\");
 	}
- 
 }
-
-
