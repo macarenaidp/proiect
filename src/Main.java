@@ -1,11 +1,9 @@
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
-import java.awt.Frame;
 import java.awt.GridLayout;
 
 import javax.swing.DefaultListModel;
-import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JList;
 import javax.swing.JPanel;
@@ -19,14 +17,12 @@ import javax.swing.event.ListSelectionListener;
 @SuppressWarnings("serial")
 public class Main extends JPanel {
 
-	public static Mediator med;
-
-	public Main() {
-		init();
+	public Main(Mediator med) {
+		init(med);
 	}
 
 	@SuppressWarnings({ "rawtypes", "unchecked" })
-	public void init() {
+	public void init(final Mediator med) {
 		// initialize models
 		DefaultListModel fileFrameModel = new DefaultListModel();
 		DefaultListModel userFrameModel = new DefaultListModel();
@@ -75,14 +71,6 @@ public class Main extends JPanel {
 
 		med.initConnection();
 
-		// Fake user for testing
-		/*String[] files = {"ceva.txt","ceva2.txt","Curs.pdf","Curs2.pdf", "bugs.txt"};
-		String[] files2 = {"daffy.txt"};
-		String[] files3 = {"sam.txt"};
-		med.addUser(files, "bugs", "127.0.0.1", 40002);
-		med.addUser(files2, "daffy", "127.0.0.1", 40002);
-		med.addUser(files3, "sam", "127.0.0.1", 40002);*/
-
 		// Selection listener for the file list
 		fileFrame.addListSelectionListener(new ListSelectionListener() {
 			public void valueChanged(ListSelectionEvent e) {
@@ -109,36 +97,6 @@ public class Main extends JPanel {
 	}
 
 
-	public static void buildGUI() {
-		JFrame frame = new JFrame(med.getUserName()); // title
-		frame.setContentPane(new Main()); // content
-		frame.setSize(500, 500); // width / height
-		frame.setExtendedState(Frame.MAXIMIZED_BOTH);
-		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // exit application when window is closed
-		frame.setVisible(true); // show it!
-
-		frame.addWindowListener(new java.awt.event.WindowAdapter() {
-            public void windowClosing(java.awt.event.WindowEvent evt){
-                med.closeConnection();
-            }
-        });
-
-		Thread update_users = new Thread(new Runnable() {
-			public void run() {
-				while(true) {
-					try {
-						Thread.sleep(10000); // every 10 seconds
-						med.updateUsers();
-					} catch (InterruptedException e) {
-						e.printStackTrace();
-					}
-				}
-			}
-		});
-
-		update_users.start();
-	}
-
 	public static void main(String[] args) {
 		/*final String userName = args[0];
 		final String ip = args[1];
@@ -147,19 +105,19 @@ public class Main extends JPanel {
 		final String destdir = args[4];
 		final String[] files = args[5].split(" ");*/
 
-		final String userName = "user1";
+		final String userName = "user2";
 		final String ip = "127.0.0.1";
-		final int port = 40001;
-		final String homedir = "/home/camelia/Projects/Poli/4/IDP/test/user1/home/";
-		final String destdir = "/home/camelia/Projects/Poli/4/IDP/test/user1/download/";
-		final String[] files = { "ceva.txt" };
+		final int port = 40002;
+		final String homedir = "/home/camelia/Projects/Poli/4/IDP/test/user2/home/";
+		final String destdir = "/home/camelia/Projects/Poli/4/IDP/test/user2/download/";
+		final String[] files = { "ceva.txt", "altceva.txt" };
 
-		med = new Mediator(userName, homedir, destdir, files, ip, port);
+		final Mediator med = new Mediator(userName, homedir, destdir, files, ip, port);
 
 		// run on EDT (event dispatch thread), not on main thread!
 		SwingUtilities.invokeLater(new Runnable() {
 			public void run() {
-				buildGUI();
+				med.buildGUI();
 			}
 		});
 

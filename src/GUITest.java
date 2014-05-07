@@ -5,11 +5,18 @@ import junit.framework.TestCase;
 public class GUITest extends TestCase {
 
     public void testAddNewUserCount() {
-    	Main m = new Main();
-    	Mediator med = m.med;
+    	final String userName = "user1";
+		final String ip = "127.0.0.1";
+		final int port = 40001;
+		final String homedir = "/home";
+		final String destdir = "/download";
+		final String[] files = { "file.txt" };
 
-    	String[] files = {"file1"};
-    	med.addUser(files, "UserName", "127.0.0.1", 7777);
+		Mediator med = new Mediator(userName, homedir, destdir, files, ip, port);
+    	new Main(med);
+
+    	String[] user_files = { "user_file.txt" };
+    	med.addUser(user_files, "user2", "127.0.0.1", 40002);
 
     	DefaultListModel lm = (DefaultListModel)med.userFrame.getModel();
     	int size = lm.getSize();
@@ -18,16 +25,24 @@ public class GUITest extends TestCase {
     }
 
     public void testAddNewUserName() {
-    	Main m = new Main();
-    	Mediator med = m.med;
 
-    	String[] files = {"file1"};
-    	med.addUser(files, "UserName", "127.0.0.1", 7777);
+    	final String userName = "user1";
+		final String ip = "127.0.0.1";
+		final int port = 40001;
+		final String homedir = "/home";
+		final String destdir = "/download";
+		final String[] files = { "file.txt" };
+
+		Mediator med = new Mediator(userName, homedir, destdir, files, ip, port);
+    	new Main(med);
+
+    	String[] user_files = { "user_file.txt" };
+    	med.addUser(user_files, "user2", "127.0.0.1", 40002);
 
     	DefaultListModel lm = (DefaultListModel)med.userFrame.getModel();
-    	String u = (String)lm.getElementAt(0);
+    	String user_name = (String)lm.getElementAt(0);
 
-    	assertEquals(u, "UserName");
+    	assertEquals(user_name, "user2");
     }
 
 }

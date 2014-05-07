@@ -1,8 +1,10 @@
+import java.awt.Frame;
 import java.net.MalformedURLException;
 import java.util.ArrayList;
 import java.util.List;
 
 import javax.swing.DefaultListModel;
+import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JList;
 import javax.swing.JTable;
@@ -184,5 +186,40 @@ public class Mediator {
 
 		new ProgressWorker(this.progressTable, this.statusBar, fileName, source, this.userName).execute();
 		new Client(source_user, fileName, this.downloadDir);
+	}
+
+
+	// ---------- GUI methods ----------
+
+	public void buildGUI() {
+		JFrame frame = new JFrame(this.userName); // title
+		frame.setContentPane(new Main(this)); // content
+		frame.setSize(500, 500); // width / height
+		frame.setExtendedState(Frame.MAXIMIZED_BOTH);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // exit application when window is closed
+		frame.setVisible(true); // show it!
+
+		final Mediator self = this;
+
+		frame.addWindowListener(new java.awt.event.WindowAdapter() {
+            public void windowClosing(java.awt.event.WindowEvent evt){
+                self.closeConnection();
+            }
+        });
+
+		Thread update_users = new Thread(new Runnable() {
+			public void run() {
+				while(true) {
+					try {
+						Thread.sleep(10000); // every 10 seconds
+						self.updateUsers();
+					} catch (InterruptedException e) {
+						e.printStackTrace();
+					}
+				}
+			}
+		});
+
+		update_users.start();
 	}
 }
