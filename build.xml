@@ -10,16 +10,39 @@
 
     <target name="compile">
         <mkdir dir="${build.dir}" />
-        <javac srcdir="${src.dir}" destdir="${build.dir}" />
+        <javac srcdir="${src.dir}" destdir="${build.dir}">
+			<classpath>
+				<path refid="log4j"/>
+				<path refid="axis"/>
+				<path refid="axis-ant"/>
+				<path refid="jaxrpc"/>
+				<path refid="saaj"/>
+				<path refid="com-disc"/>
+				<path refid="com-log"/>
+				<path refid="wsdl"/>
+			</classpath>
+		</javac>
     </target>
 
     <target name="run" depends="compile">
         <java classname="Main" fork="true">
             <classpath>
-				<path refid="junit"/>
+				<path refid="log4j"/>
+				<path refid="axis"/>
+				<path refid="axis-ant"/>
+				<path refid="jaxrpc"/>
+				<path refid="saaj"/>
+				<path refid="com-disc"/>
+				<path refid="com-log"/>
+				<path refid="wsdl"/>
                 <pathelement location="${build.dir}" />
             </classpath>
             <arg value="${user}" />
+            <arg value="${ip}" />
+            <arg value="${port}" />
+            <arg value="${home}" />
+            <arg value="${dest}" />
+            <arg value="${files}" />
         </java>
     </target>
 
@@ -28,7 +51,39 @@
     </target>
 
 	<path id="junit">
-	    <pathelement location="bin/junit-4.10.jar" />
+	    <pathelement location="junit-4.10.jar" />
+	</path>
+
+	<path id="axis-ant">
+	    <pathelement location="axis-ant.jar" />
+	</path>
+
+	<path id="axis">
+	    <pathelement location="axis.jar" />
+	</path>
+
+	<path id="jaxrpc">
+	    <pathelement location="jaxrpc.jar" />
+	</path>
+
+	<path id="log4j">
+	    <pathelement location="log4j.jar" />
+	</path>
+
+	<path id="saaj">
+	    <pathelement location="saaj.jar" />
+	</path>
+
+	<path id="com-disc">
+	    <pathelement location="commons-discovery-0.2.jar" />
+	</path>
+
+	<path id="com-log">
+	    <pathelement location="commons-logging-1.0.4.jar" />
+	</path>
+
+	<path id="wsdl">
+	    <pathelement location="wsdl4j-1.5.1.jar" />
 	</path>
 
 </project>

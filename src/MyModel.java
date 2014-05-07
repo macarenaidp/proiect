@@ -1,3 +1,4 @@
+@SuppressWarnings("serial")
 class MyModel extends javax.swing.table.DefaultTableModel{
 
     Object[] col = {"Source", "Destination", "File Name", "Progress", "Status"};

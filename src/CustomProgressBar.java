@@ -4,6 +4,7 @@ import javax.swing.JProgressBar;
 import javax.swing.JTable;
 import javax.swing.table.TableCellRenderer;
 
+@SuppressWarnings("serial")
 public class CustomProgressBar extends JProgressBar implements TableCellRenderer {
 
 	/**
@@ -24,18 +25,8 @@ public class CustomProgressBar extends JProgressBar implements TableCellRenderer
 										int column) {
  
 		//value is a percentage e.g. 95%
-		//final String sValue = value.toString();
-		//int index = sValue.indexOf('%');
-		//int p = 0;
 		int p = (Integer) value;
-		//if (index != -1) {
-		//	try{
-		//		p = Integer.parseInt(sValue.substring(0, index));
-		//	}
-		//	catch(NumberFormatException e){}
-			setValue(p);
-		//	setString(sValue);
-		//}
+		setValue(p);
 		return this;
 	}
 }

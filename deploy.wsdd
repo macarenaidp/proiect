@@ -1,0 +1,6 @@
+<deployment xmlns="http://xml.apache.org/axis/wsdd/" xmlns:java="http://xml.apache.org/axis/wsdd/providers/java">
+	<service name="WebServer" provider="java:RPC">
+		<parameter name="className" value="WebServer" />
+		<parameter name="allowedMethods" value="*"/>
+	</service>
+</deployment>

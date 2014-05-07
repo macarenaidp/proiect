@@ -17,17 +17,20 @@ public class Client {
 
 	public static final int BUF_SIZE = 4;
 	public static boolean running = true;
-	public static String file_name = "";
-	public String destdir = "";
-	public static Logger logger = Logger.getLogger(Client.class);
+
+	public String fileName;
+	public String downloadDir;
 	public User source;
+
+	public static Logger logger = Logger.getLogger(Client.class);
+
 
 	public Client(User source, String fileName, String destDir) {
 		super();
 		Selector selector			= null;
 		SocketChannel socketChannel	= null;
-		this.file_name = fileName;
-		this.destdir = destDir;
+		this.fileName = fileName;
+		this.downloadDir = destDir;
 		this.source = source;
 
 		running = true;
@@ -94,7 +97,7 @@ public class Client {
 
 		Charset charset = Charset.forName("UTF-8");
 		CharsetEncoder encoder = charset.newEncoder();
-		ByteBuffer send_buffer = encoder.encode(CharBuffer.wrap(this.file_name));
+		ByteBuffer send_buffer = encoder.encode(CharBuffer.wrap(this.fileName));
 
 		while (socketChannel.write(send_buffer) > 0);
 
@@ -117,16 +120,15 @@ public class Client {
 			System.out.println("File size: " + file_size);
 
 			//my file
-			raf = new RandomAccessFile(this.destdir + this.file_name, "rw");
+			raf = new RandomAccessFile(this.downloadDir + this.fileName, "rw");
 			raf.setLength(0);
 			fc = raf.getChannel();
 			memBuf = fc.map(FileChannel.MapMode.READ_WRITE, 0, file_size);
-			
+
 			int progres = 0;
 			int value = 0;
 
 			PropertyConfigurator.configure("log4j.properties");
-			//BasicConfigurator.configure();
 			String curr_user = this.source.getName();
 			Logger user_logger = Logger.getLogger(curr_user);
 

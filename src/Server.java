@@ -1,11 +1,7 @@
-import java.io.File;
-import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.net.InetSocketAddress;
 import java.nio.ByteBuffer;
-import java.nio.CharBuffer;
-import java.nio.MappedByteBuffer;
 import java.nio.channels.FileChannel;
 import java.nio.channels.SelectionKey;
 import java.nio.channels.Selector;
@@ -14,21 +10,24 @@ import java.nio.channels.SocketChannel;
 import java.nio.charset.Charset;
 import java.nio.charset.CharsetDecoder;
 import java.util.Iterator;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
+
 
 public class Server {
 
 	public static final int BUF_SIZE	= 4;
-	public static final String IP		= "127.0.0.1";
-	public static final int PORT		= 40002;
+	public String IP;
+	public int PORT;
 	public static long file_size = 0;
-	public static String homedir = "";
+	public String homedir;
 
-	public Server(String homedir) {
-		super();
 
+	public Server(String homedir, String ip, int port) {
 		this.homedir = homedir;
+		this.PORT = port;
+		this.IP = ip;
+	}
+	
+	public void run() {
 		ServerSocketChannel serverSocketChannel	= null;
 		Selector selector						= null;
 
@@ -81,7 +80,7 @@ public class Server {
 
 		try {
 			ByteBuffer read_buffer = ByteBuffer.allocate(100);
-			int x = socketChannel.read(read_buffer);
+			socketChannel.read(read_buffer);
 			Charset charset = Charset.forName("UTF-8");
 			CharsetDecoder decoder = charset.newDecoder();
 			read_buffer.flip();
@@ -91,14 +90,14 @@ public class Server {
 
 			RandomAccessFile raf	= null;		// file
 			FileChannel fc			= null;		// associated file channel
-			
+
 			raf = new RandomAccessFile(this.homedir + file_name, "r");
 			fc = raf.getChannel();
 			file_size = (int)fc.size();
 			ByteBuffer buf = ByteBuffer.allocateDirect((int)file_size);
 
 			while(fc.read(buf) > 0);
-			
+
 			buf.flip();
 
 			socketChannel.register(key.selector(), SelectionKey.OP_WRITE, buf);
