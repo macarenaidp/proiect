@@ -69,8 +69,6 @@ public class Main extends JPanel {
 		med.setTable(table);
 		med.setStatusBar(statusBar);
 
-		med.initConnection();
-
 		// Selection listener for the file list
 		fileFrame.addListSelectionListener(new ListSelectionListener() {
 			public void valueChanged(ListSelectionEvent e) {
@@ -121,6 +119,7 @@ public class Main extends JPanel {
 			}
 		});
 
+		med.initConnection();
 		med.getServer().run();
 	}
 }

@@ -151,7 +151,7 @@ public class Mediator {
 
 		for (int i = 0; i < this.peers.size(); i ++) { 
 			u = this.peers.get(i);
-			if (u.getName() == name)
+			if (u.getName().equals(name))
 				return u;
 		}
 
