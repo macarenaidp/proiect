@@ -2,20 +2,18 @@ Tema 3 IDP.
 
 Echipa Macarena.
 
-Intrucat nu este implementat serviciul web, atat utilizatorii cat si fisierele sunt definite static in main.
-
 Implementare:
-	- transfer de fisier in chunkuri. Prin apasarea pe unul dintre fisierele unui utilizator acesta este cerut.
-In prealabil are loc un schimb de nume, ca apoi sa se raspunda cu dimensiunea si datele efective.
-	- Progress bar corelat transferului de fisiere.
-	- Logare pentru fiecare dintre utilizatori intr-un fisier separat(a informatiilor specifice),
-cat si intr-un fisier comun(a tuturor informatiilor) si la consola. Granularitaea poate fi schimbata in log4j.properties.
-	- testarea prin care se adauga doi utilizatori si fisiere.
-
-Tema a presupus adaugarea unor noi clase: server si client. Serverul porneste odata cu aplicatia iar clientul la fiecare
-click pe un fisiser. Clientul apoi face un request pentru file_path si file_name ca apoi serverul sa ii raspunda cu file_size-ul
-pentru a stii la ce dimensiune sa se astepete. In final are loc transferul de date logat si de progress bar si de fisierul de log
-al utilizatorului de la care se face request.
+	- Server-ul princial tomcat este responsabil de gestiunea utilizatorilor. Acesta
+	retine detalii despre fiecare user (nume, fisiere puse pentru share, IP, port
+	pe care asculta, etc). De asemenea, pune la dispozitie trei metore pentru
+	interactiunea cu utilizatorii: inregistrare, deconectare si cerere pentru obtinerea
+	unei liste cu ceilalti utilizatori conectati.
+	- Utilizatorii comunica cu server-ul tomcat la initializare si ii paseaza
+	informatii despre cum pot fi contactati direct si ce fisiere au la share.
+	- Updatarea listei de utlizatori conectati are loc o data la 10 secunde.
+	- Utilizatorii se deconecteaza de la server atunci cand aplicatia este
+	inchisa.
+	- Testarea acopera verificarea conexiunii cu server-ul web.
 
 Modalitate de rulare:
 	ant 	-Duser=<nume utilizator>
