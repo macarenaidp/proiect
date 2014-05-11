@@ -98,19 +98,19 @@ public class Main extends JPanel {
 
 
 	public static void main(String[] args) {
-		/*final String userName = args[0];
+		final String userName = args[0];
 		final String ip = args[1];
 		final int port = Integer.parseInt(args[2]);
 		final String homedir = args[3];
 		final String destdir = args[4];
-		final String[] files = args[5].split(" ");*/
+		final String[] files = args[5].split(" ");
 
-		final String userName = "user2";
+		/*final String userName = "user2";
 		final String ip = "127.0.0.1";
 		final int port = 40002;
 		final String homedir = "/home/camelia/Projects/Poli/4/IDP/test/user2/home/";
 		final String destdir = "/home/camelia/Projects/Poli/4/IDP/test/user2/download/";
-		final String[] files = { "ceva.txt", "altceva.txt" };
+		final String[] files = { "ceva.txt", "altceva.txt" };*/
 
 		final Mediator med = new Mediator(userName, homedir, destdir, files, ip, port);
 

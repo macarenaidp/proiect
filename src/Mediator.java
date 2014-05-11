@@ -82,6 +82,7 @@ public class Mediator {
 		this.statusBar.setText("Updating peer list ...");
 
 		((DefaultListModel)this.userFrame.getModel()).clear();
+		((DefaultListModel)this.fileFrame.getModel()).clear();
 		this.peers = new ArrayList<User>();
 		Object[] params = new Object[] { this.userName };
 
